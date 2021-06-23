@@ -488,7 +488,7 @@ class little_labels(QObject):
             
         ############### GIVE DEFAULT PRINTER CONTROL BACK TO RICOH ##############################
 
-        win32print.SetDefaultPrinter(Ricoh_printer)
+#        win32print.SetDefaultPrinter(Ricoh_printer)
         #########################################################################################
 
         ############## ERROR/EXCEPTION HANDLING #######################################################

@@ -61,15 +61,9 @@ from export_shipping_csv import ship_labels
 
 ################# DECLARE COLOR CONSTANTS #######################################################
 
-# We want to use solid, consistent Hewitt branding for this application, so we will incorporate
-# their color schemes.  Hewitt has provided me with a branding guide with their rgb color scheme. 
-# Hewitt's shade of blue from within their branding emblem is rgb(40, 77, 99)
 hewitt_blue = QtGui.QColor(40, 77, 99)
-# Hewitt's shade of green from within their emblem is rgb(61, 112, 115)
 hewitt_green = QtGui.QColor(61, 112, 115)
-# The purple from within their emblem is rgb(116, 86, 116)
 hewitt_purple = QtGui.QColor(116, 86, 116) 
-# The grey/white from within their branding emblems is rgb(217, 217, 217)
 hewitt_white = QtGui.QColor(217, 217, 217)
 #################################################################################################
 
